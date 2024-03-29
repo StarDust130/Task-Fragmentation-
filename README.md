@@ -51,6 +51,10 @@ This project tackles the challenge of refactoring a cluttered UI and consolidati
 2. Explore the `before` and `after` folders to witness the transformation.
 3. Dive into the code to see how components were selectively crafted for better readability.
 
+<hr/>
 
+ <h3 style="text-align: center; font-style: italic;">"The only way to do great work is to love what you do." - Steve Jobs 🌟</h3>
+
+ <hr/>
 
 

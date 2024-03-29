@@ -5,6 +5,7 @@ enum BurnTxProgress {
   burning = "Burning...",
 }
 
+
 export const BurnPage = () => {
   const {
     walletAddress,

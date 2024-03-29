@@ -15,6 +15,7 @@ enum BurnTxProgress {
   burning = "Burning...",
 }
 
+
 // BurnPage component
 export const BurnPage = () => {
   // State declarations 🚀
